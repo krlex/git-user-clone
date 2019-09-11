@@ -1,6 +1,6 @@
 # This is a Git clone all repos from user
 
-This is a script for multi git clone from random user
+This is a script for multi git clone all repos from user
 
 #### How to use script
 ```
